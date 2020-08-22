@@ -5,9 +5,9 @@ public class Main {
     public static void main(String[] args) {
 
 	    boolean gameOver = true;
-        int score = 800;
+        int score = 8008;
         int levelCompleted = 5;
-        int bonus = 100;
+        int bonus = 200;
 
         if(gameOver) {
             int finalScore = score + (levelCompleted * bonus);
